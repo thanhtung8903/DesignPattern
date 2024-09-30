@@ -3,7 +3,7 @@
 /Factory/nbproject/private/
 
 build
-nbproject/*
+nbproject
 build.xml
 manifest.mf
 /Prototype/nbproject/private/
