@@ -1,0 +1,9 @@
+/FactoryMethod/nbproject/private/
+/FactoryMethod/build/
+/Factory/nbproject/private/
+
+build
+nbproject/*
+build.xml
+manifest.mf
+/Prototype/nbproject/private/
