@@ -1,9 +1,12 @@
-/FactoryMethod/nbproject/private/
-/FactoryMethod/build/
-/Factory/nbproject/private/
+# Ignore everything
+*
 
-build
-nbproject
-build.xml
-manifest.mf
-/Prototype/nbproject/private/
+# But not src folder
+!src/
+
+# Ignore all files in the src folder except source files
+src/*
+!src/**/*.java 
+
+# If there are other file types in src you want to track, add similar rules
+!src/**/*.xml
