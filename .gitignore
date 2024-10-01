@@ -1,12 +1,5 @@
-# Ignore everything
-*
-
-# But not src folder
-!src/
-
-# Ignore all files in the src folder except source files
-src/*
-!src/**/*.java 
-
-# If there are other file types in src you want to track, add similar rules
-!src/**/*.xml
+**/build/
+**/nbproject/
+**/test/
+**/build.xml
+**/manifest.mf
